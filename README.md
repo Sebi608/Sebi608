@@ -2,7 +2,7 @@
 🛠️ My Productivity Stack<br>- 💻 OS: Windows 11 | Debian 13<br>- ⌨️ Editor: VS Code<br>- ☕ Fuel: Paulaner Spezi | White Monster<br><br>🌐 My Focus Areas<br>- 🌐 Network Engineering: Hosting own home network & servers<br>- 🤖 Network Automation: Home Assistant automations<br>- 🔒 Security: Open source just better!<br><br>🎮 Gaming<br>- Hosting own gameserver<br>- Arma Reforger Lover
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8aeYKAjtQd) 
 
 # 💻 Tech Stack:
