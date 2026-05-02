@@ -1,5 +1,15 @@
 # 💫 About Me:
-🛠️ My Productivity Stack<br>- 💻 OS: Windows 11 | Debian 13<br>- ⌨️ Editor: VS Code<br>- ☕ Fuel: Paulaner Spezi | White Monster<br><br>🌐 My Focus Areas<br>- 🌐 Network Engineering: Hosting own home network & servers<br>- 🤖 Network Automation: Home Assistant automations<br>- 🔒 Security: Open source just better!<br><br>🎮 Gaming<br>- Hosting own gameservers<br>- Arma Reforger Lover
+🛠️ My Productivity Stack<br>
+- 💻 OS: Windows 11 | Debian 13<br>
+- ⌨️ Editor: VS Code<br>
+- ☕ Fuel: Paulaner Spezi | White Monster<br><br>
+🌐 My Focus Areas<br>
+- 🌐 Network Engineering: Hosting own home network & servers<br>
+- 🤖 Network Automation: Home Assistant automations<br>
+- 🔒 Security: Verified, not just promised. <br><br>
+🎮 Gaming<br>
+- Hosting own gameservers<br>
+- Arma Reforger Lover
 
 
 
