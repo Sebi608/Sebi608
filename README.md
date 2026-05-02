@@ -1,7 +1,7 @@
 # 💫 About Me:
 🛠️ My Productivity Stack
 <br>
-- 💻 OS: Windows 11 | Debian 13
+- 💻 OS: Windows 11 | Ubuntu Desktop | Debian 13
 - ⌨️ Editor: VS Code
 - ☕ Fuel: Paulaner Spezi | White Monster
 <br>
