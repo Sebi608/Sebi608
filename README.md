@@ -1,15 +1,20 @@
 # 💫 About Me:
-🛠️ My Productivity Stack<br>
-- 💻 OS: Windows 11 | Debian 13<br>
-- ⌨️ Editor: VS Code<br>
+🛠️ My Productivity Stack
+<br>
+- 💻 OS: Windows 11 | Debian 13
+- ⌨️ Editor: VS Code
 - ☕ Fuel: Paulaner Spezi | White Monster
 <br>
-🌐 My Focus Areas<br>
-- 🌐 Network Engineering: Hosting own home network & servers<br>
-- 🤖 Network Automation: Home Assistant automations<br>
+
+🌐 My Focus Areas
+<br>
+- 🌐 Network Engineering: Hosting own home network & servers
+- 🤖 Network Automation: Home Assistant automations
 - 🔒 Security: Verified, not just promised.
 <br>
-🎮 Gaming<br>
+
+🎮 Gaming
+<br>
 - Hosting own gameservers
 - 🔫 Milsim: Arma Reforger / Ready or Not
 - 👤 Stealth: Hitman / Sniper Elite
