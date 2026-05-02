@@ -3,14 +3,12 @@
 - 💻 OS: Windows 11 | Debian 13<br>
 - ⌨️ Editor: VS Code<br>
 - ☕ Fuel: Paulaner Spezi | White Monster
-<br><br>
-
+<br>
 🌐 My Focus Areas<br>
 - 🌐 Network Engineering: Hosting own home network & servers<br>
 - 🤖 Network Automation: Home Assistant automations<br>
 - 🔒 Security: Verified, not just promised.
-<br><br>
-
+<br>
 🎮 Gaming<br>
 - Hosting own gameservers
 - 🔫 Milsim: Arma Reforger / Ready or Not
@@ -18,7 +16,6 @@
 - 🏗️ Sandbox: Minecraft / GTA V / Rust
 - 🚁 FPV Enthusiast: TRYP FPV / DRLS
 - 🎈 Strategy: Bloons TD 6 🐒
-
 
 
 # 💻 Tech Stack:
