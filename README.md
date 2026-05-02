@@ -12,8 +12,12 @@
 <br><br>
 
 🎮 Gaming<br>
-- Hosting own gameservers<br>
-- Arma Reforger Lover
+- Hosting own gameservers
+- 🔫 Milsim: Arma Reforger / Ready or Not
+- 👤 Stealth: Hitman / Sniper Elite
+- 🏗️ Sandbox: Minecraft / GTA V / Rust
+- 🚁 FPV Enthusiast: TRYP FPV / DRLS
+- 🎈 Strategy: Bloons TD 6 🐒
 
 
 
