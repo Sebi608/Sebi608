@@ -32,7 +32,7 @@
 # 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8aeYKAjtQd) 
 
-#
 <br> <br>
+#
 Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say. <br>
 Edward Snowden
