@@ -3,7 +3,7 @@
 <br>
 - 💻 OS: Windows 11 | Ubuntu Desktop / Server | Debian 13
 - ⌨️ Editor: VS Code
-- ☕ Fuel: Paulaner Spezi | White Monster
+- ☕ Fuel: Paulaner Spezi
 <br>
 
 🌐 My Focus Areas
