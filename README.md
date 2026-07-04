@@ -9,7 +9,7 @@
 🌐 My Focus Areas
 <br>
 - 🌐 Network Engineering: Hosting own servers & home network
-- 🤖 Network Automation: Home Assistant automations
+- 🤖 Network Automation with Home Assistant
 - 🔒 Security: Verified, not just promised.
 <br>
 
