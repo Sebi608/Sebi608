@@ -8,7 +8,7 @@
 ---
 
 ### 🌐 My Focus Areas
-- **Network Engineering:** Hosting own enterprise-grade servers & home network (Homelab)
+- **Network Engineering:** Hosting own Homelab & home network
 - **Home Automation:** Network automation & smart home orchestration with Home Assistant
 - **Security & Privacy:** Verified, not just promised.
 
@@ -34,8 +34,6 @@
     <img src="https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=sebi608&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="190" />
   </a>
 </p>
-
-> 💡 *Note: Private commits are included in the stats to reflect full development activity.*
 
 <br>
 
