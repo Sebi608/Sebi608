@@ -29,6 +29,21 @@
 
 <br>
 
+---
+
+### **GitHub Stats**
+
+<div align="center">
+  <!-- <a href="https://github.com/sebi608">
+    <img height="180" src="https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=sebi608&theme=tokyonight&layout=compact&hide=css,javascript,typescript,html,jupyter%20notebook&hide_progress=true&langs_count=10" alt="Sebi608's Top Languages" />
+  </a> -->
+  <a href="https://github.com/sebi608">
+    <img height="240" src="https://github-stats-extended.vercel.app/api?username=sebi608&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=noctis_minimus&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Sebi608's GitHub Stats" />
+  </a>
+</div>
+
+---
+
 # 🌐 Social:
 Not in the mood rn :)
 
