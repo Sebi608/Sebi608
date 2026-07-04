@@ -24,6 +24,7 @@
 
 <br>
 # Github stats:
+
 [![Sebi608's GitHub stats](https://readme-stats-six-ivory-52.vercel.app/api?username=sebi608&show_icons=true&theme=tokyonight)](https://github.com/sebi608)  
 [![Top Langs](https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=sebi608&layout=compact&theme=tokyonight)](https://github.com/sebi608)
 
