@@ -29,9 +29,7 @@
 
 <br>
 
----
-
-### **GitHub Stats**
+# GitHub Stats:
 
 <div align="center">
   <!-- <a href="https://github.com/sebi608">
@@ -41,8 +39,6 @@
     <img height="240" src="https://github-stats-extended.vercel.app/api?username=sebi608&rank_icon=default&hide_rank=true&show_icons=true&include_all_commits=true&theme=noctis_minimus&show=prs_merged,prs_merged_percentage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Sebi608's GitHub Stats" />
   </a>
 </div>
-
----
 
 # 🌐 Social:
 Not in the mood rn :)
