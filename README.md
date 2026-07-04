@@ -1,45 +1,77 @@
-# 💫 About Me:
-🛠️ My Productivity Stack
-<br>
-- 💻 OS: Windows 11 | Ubuntu Desktop / Server | Debian 13
-- ⌨️ Editor: VS Code
-- ☕ Fuel: Paulaner Spezi
-<br>
+# 💫 About Me
 
-🌐 My Focus Areas
-<br>
-- 🌐 Network Engineering: Hosting own servers & home network
-- 🤖 Network Automation with Home Assistant
-- 🔒 Security: Verified, not just promised.
-<br>
+### 🛠️ My Productivity Stack
+- **OS:** Windows 11 | Ubuntu Desktop & Server | Debian 13
+- **Editor:** VS Code (Visual Studio Code)
+- **Fuel:** Paulaner Spezi 🥤
 
-🎮 Gaming
-<br>
-- Hosting own gameservers
-- 🔫 Milsim: Arma Reforger | Ready or Not
-- 👤 Stealth: Hitman | Sniper Elite
-- 🏗️ Sandbox: Minecraft | GTA V | Rust
-- 🚁 FPV Enthusiast: TRYP FPV | DRLS
-- 🎈 Strategy: Bloons TD 6 🐒
+---
 
-<br>
+### 🌐 My Focus Areas
+- **Network Engineering:** Hosting own enterprise-grade servers & home network (Homelab)
+- **Home Automation:** Network automation & smart home orchestration with Home Assistant
+- **Security & Privacy:** Verified, not just promised.
 
-# Github stats:
+---
 
-[![Sebi608's GitHub stats](https://readme-stats-six-ivory-52.vercel.app/api?username=sebi608&show_icons=true&theme=tokyonight)](https://github.com/sebi608)  
-[![Top Langs](https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=sebi608&layout=compact&theme=tokyonight)](https://github.com/sebi608)
+### 🎮 Gaming & Enthusiast
+- **Server Hosting:** Managing and deploying dedicated gameservers
+- **Milsim:** Arma Reforger | Ready or Not
+- **Stealth:** Hitman | Sniper Elite
+- **Sandbox:** Minecraft | GTA V | Rust
+- **FPV Racing:** Enthusiast in TRYP FPV | DRL Simulator 🚁
+- **Strategy:** Bloons TD 6 🐒
 
 <br>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/sebi608">
+    <img src="https://readme-stats-six-ivory-52.vercel.app/api?username=sebi608&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Sebi608's GitHub stats" height="190" />
+  </a>
+  <a href="https://github.com/sebi608">
+    <img src="https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=sebi608&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="190" />
+  </a>
+</p>
+
+> 💡 *Note: Private commits are included in the stats to reflect full development activity.*
 
 <br>
 
-# 🌐 Social:
-Not in the mood rn :)
+# 💻 Tech Stack
 
-<br> <br>
-#
-Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say. <br>
-Edward Snowden
+### 🚀 Languages & Scripting
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Environment & Tools
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+<br>
+
+# 🌐 Socials
+*Not in the mood right now... Check back later!* 😉
+
+<br>
+
+---
+
+<br>
+
+> 🔒 **Privacy First**
+> 
+> *"Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."*
+> 
+> — **Edward Snowden**
+
+<br>
