@@ -23,6 +23,7 @@
 - 🎈 Strategy: Bloons TD 6 🐒
 
 <br>
+
 # Github stats:
 
 [![Sebi608's GitHub stats](https://readme-stats-six-ivory-52.vercel.app/api?username=sebi608&show_icons=true&theme=tokyonight)](https://github.com/sebi608)  
