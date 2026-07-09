@@ -13,7 +13,7 @@
 - **Editor:** VS Code (Visual Studio Code)
 - **Fuel:** Paulaner Spezi 🥤
 
----
+-
 
 ### 🌐 My Focus Areas
 - **Network Engineering:** Hosting own Homelab & home network
