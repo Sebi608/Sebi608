@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Sebi608;Just+a+random+guy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=5000&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Sebi608;Just+a+random+guy" alt="Typing SVG" />
 </div>
 
 # 💫 About Me
