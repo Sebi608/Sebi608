@@ -24,15 +24,23 @@
 
 <br>
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/sebi608">
-    <img src="https://readme-stats-six-ivory-52.vercel.app/api?username=sebi608&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Sebi608's GitHub stats" height="190" />
-  </a>
-  <a href="https://github.com/sebi608">
-    <img src="https://readme-stats-six-ivory-52.vercel.app/api/top-langs/?username=sebi608&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" height="190" />
-  </a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Sebi608&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Sebi608&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sebi608&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 <br>
