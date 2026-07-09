@@ -71,11 +71,8 @@
 # 🌐 Socials
 *Not in the mood right now... Check back later!* 😉
 
-<br>
-
 </div>
 
-<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 </div>
@@ -85,5 +82,3 @@
 > *"Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."*
 > 
 > — **Edward Snowden**
-
-<br>
