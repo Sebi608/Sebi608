@@ -37,27 +37,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sebi608&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <div style="
-    background: #1a1b26; 
-    border-left: 4px solid #db61a2; 
-    padding: 15px 20px; 
-    border-radius: 4px; 
-    max-width: 600px; 
-    text-align: left;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  ">
-    <p style="color: #a9b1d6; font-size: 14px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-style: italic; line-height: 1.5;">
-      "Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."
-    </p>
-    <p style="color: #db61a2; font-size: 13px; margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: bold; text-align: right;">
-      — Edward Snowden
-    </p>
-  </div>
-</p>
-
 <br>
 
 # 💻 Tech Stack
