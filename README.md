@@ -40,7 +40,22 @@
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <div style="
+    background: #1a1b26; 
+    border-left: 4px solid #db61a2; 
+    padding: 15px 20px; 
+    border-radius: 4px; 
+    max-width: 600px; 
+    text-align: left;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  ">
+    <p style="color: #a9b1d6; font-size: 14px; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-style: italic; line-height: 1.5;">
+      "Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."
+    </p>
+    <p style="color: #db61a2; font-size: 13px; margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: bold; text-align: right;">
+      — Edward Snowden
+    </p>
+  </div>
 </p>
 
 <br>
@@ -71,13 +86,5 @@
 <br>
 
 ---
-
-<br>
-
-> 🔒 **Privacy First**
-> 
-> *"Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."*
-> 
-> — **Edward Snowden**
 
 <br>
