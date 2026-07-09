@@ -36,10 +36,6 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sebi608&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sebi608&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 <br>
 
 # 💻 Tech Stack
@@ -78,3 +74,7 @@
 > — **Edward Snowden**
 
 <br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
