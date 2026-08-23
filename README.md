@@ -85,4 +85,4 @@
 > 
 > — **Edward Snowden**
 
-![duck]([https://webpets-flame.vercel.app/generated/panda/black_walk_8fps.gif](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif))
+![Gummiente](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif)
