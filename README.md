@@ -84,3 +84,5 @@
 > *"Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."*
 > 
 > — **Edward Snowden**
+
+![duck]([https://webpets-flame.vercel.app/generated/panda/black_walk_8fps.gif](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif))
