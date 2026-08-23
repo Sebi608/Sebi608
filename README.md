@@ -73,11 +73,18 @@
 
 </div>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Gummiente](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif)
+
+<br>
 
 > 🔒 **Privacy First**
 > 
 > *"Arguing you don't care about digital privacy because you have nothing to hide is like saying you don't care about free speech because you have nothing to say."*
 > 
 > — **Edward Snowden**
-
-![Gummiente](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif)
