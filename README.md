@@ -72,7 +72,7 @@
 *Not in the mood right now... Check back later!* 😉
 
 </div>
-<br>
+
 <br>
 <br>
 <br>
@@ -81,6 +81,10 @@
 
 ![Gummiente](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif)
 
+<br>
+<br>
+<br>
+<br>
 <br>
 
 > 🔒 **Privacy First**
