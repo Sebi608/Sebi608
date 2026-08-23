@@ -79,7 +79,7 @@
 <br>
 <br>
 
-![Gummiente](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif)
+![duck](https://webpets-flame.vercel.app/generated/rubber-duck/yellow_walk_8fps.gif)
 
 <br>
 <br>
